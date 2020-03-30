@@ -1,5 +1,4 @@
 from InstagramAPI import InstagramAPI
-from bs4 import BeautifulSoup
 from getpass import getpass
 import time ,datetime ,requests ,os
 
